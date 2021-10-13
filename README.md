@@ -5,7 +5,7 @@ Computer tools
 **Name** | **Link** | **Description**
 ------------ | ------------- | -------------
 WinMerge | https://winmerge.org/downloads/?lang=en | Compare folder or files for differences
-dupeGuru | https://dupeguru.voltaicideas.net/ | Compare folder or files for differences
+dupeGuru | https://dupeguru.voltaicideas.net/ | Compare folder or files for differences (useful for photos)
 TreeSize | https://www.jam-software.com/treesize_free | Scans folder for files
 
 ## Media management
